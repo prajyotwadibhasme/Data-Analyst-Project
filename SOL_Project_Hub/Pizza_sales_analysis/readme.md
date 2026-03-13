@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales SQL Analysis Project
+# 🍕 Pizza Sales Analysis Project
 
 ## 📊 Project Overview
 
