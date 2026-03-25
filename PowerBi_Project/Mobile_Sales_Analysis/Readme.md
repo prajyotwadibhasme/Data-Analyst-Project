@@ -1,6 +1,6 @@
 # 📊 Mobile Sales Analytics Dashboard  
 
-![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
+![Power BI](#Main_Dashboard)
 ![Project Type](https://img.shields.io/badge/Type-Dashboard-blue)
 ![Domain](https://img.shields.io/badge/Domain-Retail%20Analytics-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
@@ -82,7 +82,7 @@ CALCULATE(
 
 ## 🖼️ Dashboard Preview
 
-### 🔹 Main Dashboard
+### Main_Dashboard
 ![Mobile_Sales_Analysis](Images/PowerBi_Dashboard.png)
 
 ### 🔹 Filter Interaction View
